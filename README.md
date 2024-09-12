@@ -1,2 +1,1 @@
-# sites
-My own sites
+# Zoo site (not responsive)
